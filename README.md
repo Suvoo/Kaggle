@@ -1,1 +1,1 @@
-# Starting out with Kaggle
+# Starting out with Kaggle Courses and competitions
